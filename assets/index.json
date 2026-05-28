@@ -2534,6 +2534,9 @@
   "stacks/sip010/welshcorgicoin_sp3ne50gexfg9szgtt51p40x2ckysz5cc4ztz7a2g.welshcorgicoin-token::welshcorgicoin": {
     "icon": "WELSH.png"
   },
+  "stacks/sip010/zest_sp1a27kfy4xerqccrcarcyd1cc5n7m6688bsyadj7.zest-token::zest": {
+    "icon": "ZEST.png"
+  },
   "starknet": {
     "icon": "STRK.png"
   },

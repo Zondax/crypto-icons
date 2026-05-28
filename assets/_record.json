@@ -1947,6 +1947,9 @@
   "ZEC": {
     "ids": ["zcash"]
   },
+  "ZEST": {
+    "ids": ["stacks/sip010/zest_sp1a27kfy4xerqccrcarcyd1cc5n7m6688bsyadj7.zest-token::zest"]
+  },
   "ZETA": {
     "ids": ["bsc/bep20/zeta", "ethereum/erc20/zeta"]
   },
